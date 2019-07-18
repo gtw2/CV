@@ -6,7 +6,7 @@ This repository contains my curriculum vitae source files.
 
 A current pdf can usually be found on my website :
 
-placeholder
+gtw2.github.io/westphal_resume.pdf
 
 In order to build my cv from the source, try latex or pdflatex.
 
